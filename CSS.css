@@ -1,31 +1,31 @@
-@font-face		{
-					font-family: 'TF2Build';
-					src: url('https://dl-web.dropbox.com/get/TF2%20Mods/DL%20Page/tf2build.ttf?w=AACtQ3XUdEaqzNDKOUt7rUyx4OhW4JuUps82jyzl3MIt_Q&dl=1&_subject_uid=154644363');
-					url('https://dl-web.dropbox.com/get/TF2%20Mods/DL%20Page/tf2build.ttf?w=AACtQ3XUdEaqzNDKOUt7rUyx4OhW4JuUps82jyzl3MIt_Q&dl=1&_subject_uid=154644363') format('truetype');
-					font-weight: normal;
-					font-style: normal;
-				}
-				
-.TF2Text		{
-					font-family: TF2build;
-					color: #EBE2CA;
-					text-shadow: 2px 2px 1px #000;
-					text-align : center;
-				}		
-				
-.TF2Images		{
-					display: inline-block;
-				}
-				
-.center 			{
-					text-align : center;
-				}
-				
-.right 			{
-					text-align : right;
-				}
-
-body 			{
+@font-face      {
+                    font-family: 'TF2Build';
+                    src: url('https://dl-web.dropbox.com/get/TF2%20Mods/DL%20Page/tf2build.ttf?w=AACtQ3XUdEaqzNDKOUt7rUyx4OhW4JuUps82jyzl3MIt_Q&dl=1&_subject_uid=154644363');
+                    url('https://dl-web.dropbox.com/get/TF2%20Mods/DL%20Page/tf2build.ttf?w=AACtQ3XUdEaqzNDKOUt7rUyx4OhW4JuUps82jyzl3MIt_Q&dl=1&_subject_uid=154644363') format('truetype');
+                    font-weight: normal;
+                    font-style: normal;
+                }
+                 
+.TF2Text        {
+                    font-family: TF2build;
+                    color: #EBE2CA;
+                    text-shadow: 2px 2px 1px #000;
+                    text-align : center;
+                }       
+                 
+.TF2Images      {
+                    display: inline-block;
+                }
+                 
+.center             {
+                    text-align : center;
+                }
+                 
+.right          {
+                    text-align : right;
+                }
+ 
+body            {
     background-image: url("http://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/299460/0779ebb4bd7ab04f7858d8d0bb91f0de3ef2c958.jpg");
     -moz-background-size: cover;
     -webkit-background-size: cover;
