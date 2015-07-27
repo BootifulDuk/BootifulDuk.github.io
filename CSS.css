@@ -26,7 +26,7 @@
                 }
  
 body            {
-    background-image: url("http://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/299460/0779ebb4bd7ab04f7858d8d0bb91f0de3ef2c958.jpg");
+    background-image: url("bg.jpg");
     -moz-background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
