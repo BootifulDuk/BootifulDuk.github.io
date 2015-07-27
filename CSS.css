@@ -1,7 +1,7 @@
 @font-face      {
                     font-family: 'TF2Build';
 					src: url('tf2build-webfont.ttf');
-					src: local('tf2build-webfont.ttf'), url('tf2build-webfont.woff') format('woff'), url('tf2build-webfont.ttf') format('truetype'), url('tf2build-webfont.svg') format('svg');
+					src: local('tf2build-webfont.ttf'), url('https://github.com/BootifulDuk/BootifulDuk.github.io/blob/master/tf2build-webfont.ttf?raw=true') format('ttf');
 					font-weight: normal;
 					font-style: normal;
                 }
