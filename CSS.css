@@ -1,9 +1,9 @@
 @font-face      {
                     font-family: 'TF2Build';
-                    src: url('https://dl-web.dropbox.com/get/TF2%20Mods/DL%20Page/tf2build.ttf?w=AACtQ3XUdEaqzNDKOUt7rUyx4OhW4JuUps82jyzl3MIt_Q&dl=1&_subject_uid=154644363');
-                    url('https://dl-web.dropbox.com/get/TF2%20Mods/DL%20Page/tf2build.ttf?w=AACtQ3XUdEaqzNDKOUt7rUyx4OhW4JuUps82jyzl3MIt_Q&dl=1&_subject_uid=154644363') format('truetype');
-                    font-weight: normal;
-                    font-style: normal;
+					src: url('tf2build-webfont.eot');
+					src: local('?'), url('tf2build-webfont.woff') format('woff'), url('tf2build-webfont.ttf') format('truetype'), url('tf2build-webfont.svg') format('svg');
+					font-weight: normal;
+					font-style: normal;
                 }
                  
 .TF2Text        {
