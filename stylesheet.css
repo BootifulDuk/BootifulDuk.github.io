@@ -1,12 +1,12 @@
 @font-face      {
-                    font-family: 'TF2Build';
+                    font-family: TF2Build;
 					src: url('tf2build-webfont.woff');
 					src: local('?'), url('tf2build-webfont.woff') format('woff'), url('tf2build-webfont.ttf') format('truetype'), url('tf2build-webfont.svg#webfontJYUt1qXz') format('svg');
 					font-weight: normal;
 					font-style: normal;
                 }
 .font-face      {
-                    font-family: 'TF2Build';
+                    font-family: TF2Build;
 					src: url('tf2build-webfont.woff');
 					src: local('?'), url('tf2build-webfont.woff') format('woff'), url('tf2build-webfont.ttf') format('truetype'), url('tf2build-webfont.svg#webfontJYUt1qXz') format('svg');
 					font-weight: normal;
