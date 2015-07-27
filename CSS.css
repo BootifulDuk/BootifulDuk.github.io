@@ -38,4 +38,7 @@ body            {
     background-image: url("bg.jpg"); no-repeat center center fixed;
     -moz-background-size: cover;
 	background-attachment:fixed;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
  }
