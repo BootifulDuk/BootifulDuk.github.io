@@ -35,7 +35,7 @@
                     text-shadow: 2px 2px 1px #000;
                     text-align : center;
                 }
-.TF2Text        {
+.TF2Text2        {
                     font-family: TF2Secondary;
 					src: url('tf2secondary-webfont.woff');
 					src: local('?'), url('tf2secondary-webfont.woff') format('woff'), url('tf2secondary-webfont.ttf') format('truetype'), url('tf2secondary-webfont.svg#webfontJYUt1qXz') format('svg');
