@@ -45,7 +45,7 @@
 					src: local('?'), url('tf2secondary-webfont.woff') format('woff'), url('tf2secondary-webfont.ttf') format('truetype'), url('tf2secondary-webfont.svg#webfontJYUt1qXz') format('svg');
 					font-weight: normal;
 					font-style: normal;                    color: #EBE2CA;
-                    text-shadow: 2px 2px 1px #FFF;
+                    text-shadow: 2px 2px 1px #000;
                     text-align : center;
                 }       
 
