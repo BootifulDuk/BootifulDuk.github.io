@@ -24,7 +24,7 @@
     font-style: normal;
 }
 .font-face      {
-                    font-family: TF2Secondary;
+                    font-family: TF2secondary;
 					src: url('tf2secondary-webfont.woff');
 					src: local('?'), url('tf2secondary-webfont.woff') format('woff'), url('tf2secondary-webfont.ttf') format('truetype'), url('tf2secondary-webfont.svg#webfontJYUt1qXz') format('svg');
 					font-weight: normal;
@@ -40,11 +40,12 @@
                     text-align : center;
                 }
 .TF2Text2        {
-                    font-family: TF2Secondary;
+                    font-family: TF2secondary;
 					src: url('tf2secondary-webfont.woff');
 					src: local('?'), url('tf2secondary-webfont.woff') format('woff'), url('tf2secondary-webfont.ttf') format('truetype'), url('tf2secondary-webfont.svg#webfontJYUt1qXz') format('svg');
 					font-weight: normal;
-					font-style: normal;                    color: #EBE2CA;
+					font-style: normal;                    color: #C5AF91	
+;
                     text-shadow: 2px 2px 1px #000;
                     text-align : center;
                 }       
