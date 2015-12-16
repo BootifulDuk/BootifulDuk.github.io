@@ -1,0 +1,44 @@
+[HUD]
+TF2HudPlus - http://steamcommunity.com/groups/tf2hudplus
+
+
+[DUK-MADE]
+Mustache-less Engineer Vive La France - https://www.dropbox.com/s/toye86ws3n1q3eb/ML.E.VLF.vpk
+
+Alternate Pyromancer's Mask Horns (hornless) - http://bootifulduk.github.io/alternatepyromancersmaskhorns.zip
+
+Improved Rancho Relaxo Sounds - http://bootifulduk.github.io/Improved%20Rancho%20Relaxo%20Sounds.vpk
+
+
+[IMPROVEMENTS]
+Texture Improvement Project (Cleanup ver.) - https://www.dropbox.com/sh/6nfxkrzaef92rox/NHQjlZdcG1
+
+N-cognito's Custom Pyro Re-animations (+old flare reload) - http://tf2.gamebanana.com/skins/142506
+
+The 70 FOV Fix Pack (+anim-less pyro version for mod above)- http://tf2.gamebanana.com/skins/124706
+
+Hawf's Tasty Lightwarp (modified, personal copy) - https://www.dropbox.com/s/fk30t8fz0ynz12d/HawfLightwarp.vpk
+
+TF2B Inspired Paint Icons - http://www.mediafire.com/?fp0srn66c06udrr
+
+Beta Muzzleflash - http://tf2.gamebanana.com/skins/99892 , http://tf2.gamebanana.com/skins/135203
+
+Shell Removal - http://tf2.gamebanana.com/skins/134309
+
+High Visibility Airstrike Missile - http://tf2.gamebanana.com/skins/137019
+
+
+[OTHER CFG STUFF I USE]
+r_rimlight 0	//Disables rimlight. Sometimes disables phong altogether. Use the line below to fix that.
+
+mat_phong 1	//Enables phong. Default value is 1. Needs to sometimes be executed after the above.
+
+snd_mixahead 0.04	// Sets how long it takes until attack sounds play. By default the setting is 0.1, or 100ms, which is 1/10 of a second.
+
+hud_combattext_batching 1	//Makes damage numbers batch. Useful for pyros and heavies.
+
+bind "f8" "exec autoexec; snd_restart; hud_reloadscheme; record fix; stop; heartbeat;"	//Reload graphics and sound to fix glitches. Will temporarily freeze your game.
+
+Alias +pinger "+score; net_graph 3"	//Shows the net_graph overlay while viewing the scoreboard. Useful for checking internet-lag issues.
+alias -pinger "-score; net_graph 0"
+bind "TAB" "+pinger"
